@@ -1,9 +1,10 @@
+**Growtopia Autonomous UpJump Break**
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2acbacf1-0f99-4077-ac03-2a939322d2b6" alt="Growtopia UpJump Break" />
 </p>
-
-**Growtopia Autonomous UpJump Break**:  
-Software to allow you autonomous break. Unlike Autonomous Break like BFG, the UpJump Break is more safe and reliable. Hard to detect by Mods.  
+  
+Software to allow you autonomous break for growtowia auto farming. Unlike Autonomous Break like BFG, the UpJump Break is more safe and reliable. Hard to detect by Mods.  
   
 All you need is to have one account to build a world like from pict above and access the portal to form a loop mechanism.
 
